@@ -1,1 +1,1 @@
-*I build things that sparks in my mind :)*
+*I prototype, build, and iterate on ideas through code :)*
